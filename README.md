@@ -44,4 +44,11 @@ reprendre l’ avant-dernier schéma de CLT (celui dessiné en vert dans les pho
 
 Conclusion -> Réponse à la problématique
 
-
+# Etat de l'art de l'article
+- Résumé : contenu fait => à vérif.
+- Mots clés : contenu fait => à vérif.
+- Introduction : contenu en cours
+- Méthode, matos : partie mdns et rest sont fait, à beautifier
+- Résultat : partie mdns et rest en cours
+- Analyse : rien
+- Discussion : rien
