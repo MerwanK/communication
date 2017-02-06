@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.0 r15299"
-   sodipodi:docname="affiche_projet.bak.svg">
+   sodipodi:docname="affiche_projet.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -160,17 +160,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="1442.4199"
-     inkscape:cy="1816.7433"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="1120.6073"
+     inkscape:cy="1333.561"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2035"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -346,7 +346,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -393,11 +393,11 @@
        id="rect4500"
        width="81.743401"
        height="45.362404"
-       x="63.970886"
+       x="-134.02911"
        y="-3305.6997" />
     <rect
        y="-2517.761"
-       x="61.938671"
+       x="-128.06134"
        height="45.362404"
        width="81.743401"
        id="rect4502"
@@ -412,7 +412,7 @@
          id="tspan4524"
          x="137.79552"
          y="-2350.405"
-         style="font-size:106.66666412px;font-weight:bold">Introduction</tspan></text>
+         style="font-size:106.66666412px;font-weight:normal">Introduction</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:25px;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -540,11 +540,11 @@
        id="rect4723"
        width="81.743401"
        height="45.362404"
-       x="61.938671"
+       x="-128.06134"
        y="-2472.3987" />
     <rect
        y="-2348.9702"
-       x="63.97089"
+       x="-136.02911"
        height="45.362404"
        width="81.743401"
        id="rect4727"
@@ -554,7 +554,7 @@
        id="rect4729"
        width="81.743401"
        height="45.362404"
-       x="63.97089"
+       x="-136.02911"
        y="-2302.9702" />
     <text
        id="text4745"
@@ -562,14 +562,14 @@
        x="141.33876"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;line-height:25px;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:106.66666412px;font-weight:bold"
+         style="font-size:106.66666412px;font-weight:normal"
          y="-1790.5077"
          x="141.33876"
          id="tspan4743"
          sodipodi:role="line">Objectifs</tspan></text>
     <g
        id="g4763"
-       transform="translate(-6.1889649e-7,360.91859)">
+       transform="translate(-194,360.91859)">
       <rect
          y="-2149.8274"
          x="63.97089"
@@ -595,10 +595,10 @@
          id="tspan4773"
          x="139.64044"
          y="-1369.7928"
-         style="font-size:106.66666412px;font-weight:bold">Méthode</tspan></text>
+         style="font-size:106.66666412px;font-weight:normal">Méthode</tspan></text>
     <g
        id="g4781"
-       transform="translate(-6.1889649e-7,783.33129)">
+       transform="translate(-198,783.33129)">
       <rect
          y="-2149.8274"
          x="63.97089"
@@ -616,7 +616,7 @@
     </g>
     <g
        id="g4808"
-       transform="translate(-6.1889648e-7,146.63289)">
+       transform="translate(-208,146.63289)">
       <g
          id="g4757">
         <rect
@@ -644,7 +644,7 @@
     </g>
     <g
        id="g4818"
-       transform="translate(-6.1889649e-7,566.63289)">
+       transform="translate(-226,566.63289)">
       <g
          id="g4814">
         <rect
@@ -693,7 +693,7 @@
            x="145.71429"
            y="1112.4298"
            style="line-height:70px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara5015">Le cloud computing a changé notre rapport à l'informatique, il permet à chacun d'accéder aux ressources (puissance de calcul, capacité de stockage) d'un serveur distant. Par exemple le service VOD de Netflix utilise les serveurs d'Amazon. Cependant, avec la multiplication des objets connectés, demain le réseau risque d'être trop engorgé. C'est pourquoi, nous nous sommes penchés sur une technologie permettant de résoudre ce problème. </flowPara></flowRoot>    <flowRoot
+         id="flowPara5015">Le cloud computing a changé notre rapport à l'informatique, il permet à chacun d'accéder aux ressources (puissance de calcul, capacité de stockage) d'un serveur distant. Par exemple le service VOD de Netflix utilise les serveurs d'Amazon. Cependant, avec la multiplication des objets connectés, demain le réseau risque d'être trop engorgé. C'est pourquoi, il faut dès maintenant penser à des solutions pouvant palier à ce problème. </flowPara></flowRoot>    <flowRoot
        transform="translate(60.322,-2815.8574)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:70px;font-family:arial;-inkscape-font-specification:arial;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4899"
@@ -707,94 +707,34 @@
            width="2903.9363"
            id="rect4885" /></flowRegion><flowPara
          id="flowPara5055"> Étudier une solution open source appelé OpenEdgeComputing. </flowPara><flowPara
-         id="flowPara4928">Implémenter une solution permettant à Orange de louer leurs puissances de calcul sous-utilisé (routeur 5G, livebox etc...)</flowPara><flowPara
+         id="flowPara4928"> Implémenter une solution permettant à Orange de louer leurs puissances de calcul sous-utilisé (routeur 5G, livebox etc...)</flowPara><flowPara
          id="flowPara5057" /></flowRoot>    <g
        id="g5013">
       <flowRoot
          xml:space="preserve"
-         id="flowRoot4935"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:25px;font-family:arial;-inkscape-font-specification:arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#575757;fill-opacity:1;stroke:none;filter:url(#filter4973)"
-         transform="translate(4,-3325.3386)"><flowRegion
-           id="flowRegion4903"
-           style="text-align:center;text-anchor:middle;fill:#575757;fill-opacity:1"><rect
-             id="rect4901"
-             width="2903.9363"
-             height="665.49573"
-             x="145.71429"
-             y="111.0013"
-             style="text-align:center;text-anchor:middle;fill:#575757;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara4905"
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1">Etude et mise en</flowPara><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4907" /><flowPara
-           id="flowPara4909"
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1" /><flowPara
-           id="flowPara4911"
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1" /><flowPara
-           id="flowPara4913"
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1" /><flowPara
-           id="flowPara4915"
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1" /><flowPara
-           id="flowPara4917"
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4919">oeuvre de Edge </flowPara><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4921" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4923" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4925" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4927" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4929" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4931" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px;fill:#575757;fill-opacity:1"
-           id="flowPara4933">Node sur la base de OEC</flowPara></flowRoot>      <flowRoot
-         transform="translate(0,-3335.3386)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:25px;font-family:arial;-inkscape-font-specification:arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot4532"
-         xml:space="preserve"><flowRegion
-           style="text-align:center;text-anchor:middle"
-           id="flowRegion4534"><rect
-             style="text-align:center;text-anchor:middle"
-             y="111.0013"
-             x="145.71429"
-             height="665.49573"
-             width="2903.9363"
-             id="rect4536" /></flowRegion><flowPara
-           style="font-weight:bold;font-size:133.33332825px"
-           id="flowPara4540">Etude et mise en</flowPara><flowPara
-           id="flowPara4588"
-           style="font-weight:bold;font-size:133.33332825px" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px"
-           id="flowPara4542" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px"
-           id="flowPara4544" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px"
-           id="flowPara4546" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px"
-           id="flowPara4548" /><flowPara
-           style="font-weight:bold;font-size:133.33332825px"
-           id="flowPara4550" /><flowPara
-           id="flowPara4624"
-           style="font-weight:bold;font-size:133.33332825px">oeuvre de Edge </flowPara><flowPara
-           id="flowPara4651"
-           style="font-weight:bold;font-size:133.33332825px" /><flowPara
-           id="flowPara4653"
-           style="font-weight:bold;font-size:133.33332825px" /><flowPara
-           id="flowPara4655"
-           style="font-weight:bold;font-size:133.33332825px" /><flowPara
-           id="flowPara4657"
-           style="font-weight:bold;font-size:133.33332825px" /><flowPara
-           id="flowPara4659"
-           style="font-weight:bold;font-size:133.33332825px" /><flowPara
-           id="flowPara4661"
-           style="font-weight:bold;font-size:133.33332825px" /><flowPara
-           id="flowPara4663"
-           style="font-weight:bold;font-size:133.33332825px">Node sur la base de OEC</flowPara></flowRoot>    </g>
+         id="flowRoot4870"
+         style="fill:black;fill-opacity:1;stroke:none;font-family:arial;font-style:normal;font-weight:normal;font-size:53.33333333px;line-height:25px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:arial;font-stretch:normal;font-variant:normal"><flowRegion
+           id="flowRegion4872"><rect
+             id="rect4874"
+             width="715.39307"
+             height="377.90649"
+             x="681.14282"
+             y="79.382301" /></flowRegion><flowPara
+           id="flowPara4876"></flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4878"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;line-height:100px;font-family:arial;-inkscape-font-specification:arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(22,-3355.3386)"><flowRegion
+           id="flowRegion4880"
+           style="font-size:133.33332825px;line-height:100px;text-align:center;text-anchor:middle"><rect
+             id="rect4882"
+             width="1784.8921"
+             height="715.42377"
+             x="681.14282"
+             y="79.382301"
+             style="font-size:133.33332825px;line-height:100px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4884"
+           style="font-size:160px;line-height:170px;font-weight:normal">Etude et mise en oeuvre de Edge Node sur la base de OpenEdgeComputing</flowPara></flowRoot>    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5059"
@@ -853,7 +793,7 @@
            x="-218.19295"
            y="3370.5688" /></flowRegion><flowPara
          id="flowPara3998" /></flowRoot>    <g
-       transform="translate(3.8146973e-6,2446.4684)"
+       transform="translate(-184,2446.4684)"
        id="g4010">
       <g
          id="g4006">
@@ -941,19 +881,19 @@
            height="500.00003"
            width="1408.5714"
            id="rect4798" /></flowRegion><flowPara
-         id="flowPara4802">Notre solution consiste à utiliser la puissance de calcul des objets Orange et proche de l'utilisateur afin d'éviter de passer par le goulot d'étranglement.</flowPara></flowRoot>    <text
+         id="flowPara4802">La solution mise en place consiste à utiliser la puissance de calcul des objets Orange et proche de l'utilisateur afin d'éviter de passer par le goulot d'étranglement.</flowPara></flowRoot>    <text
        id="text4823"
        y="513.92145"
        x="142.49759"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;line-height:25px;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:106.66666412px;font-weight:bold"
+         style="font-size:106.66666412px;font-weight:normal"
          y="513.92145"
          x="142.49759"
          id="tspan4821"
          sodipodi:role="line">Résultats</tspan></text>
     <g
-       transform="translate(-6.1889648e-7,2666.2557)"
+       transform="translate(-184,2666.2557)"
        id="g4829">
       <rect
          style="fill:#15194a;fill-opacity:1;stroke:#1f1c4f;stroke-width:0.43723932;stroke-opacity:1"
@@ -983,7 +923,7 @@
            x="145.71429"
            y="1112.4298"
            style="line-height:70px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara4845">Nous avons réalisé un programme qui pourrait permettre de répondre au futur problème de saturation du réseau. Orange pourrait alors proposer cette puissance latente, très réactive à des partenaires. Il faut cependant tester cela à échelle réelle</flowPara></flowRoot>    <rect
+         id="flowPara4845">Le programme réalisé pourrait permettre de répondre au futur problème de saturation du réseau. Orange pourrait alors proposer cette puissance latente, très réactive à des partenaires. Il faut cependant tester cela à échelle réelle</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#e9a42e;stroke-opacity:1;opacity:0;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4856"
        width="888.57141"
@@ -1521,28 +1461,6 @@
            width="256.95001"
            id="rect5858" /></flowRegion><flowPara
          id="flowPara5862">CLOUD</flowPara></flowRoot>    <image
-       transform="rotate(-179.65955)"
-       width="200.50003"
-       height="66.768082"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,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 "
-       id="image5866"
-       x="-2620.0496"
-       y="422.81778" />
-    <flowRoot
-       transform="translate(3250.8068,-3248.803)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:70px;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot5874"
-       xml:space="preserve"><flowRegion
-         style="line-height:70px"
-         id="flowRegion5870"><rect
-           style="line-height:70px"
-           y="2739.5728"
-           x="-605.71429"
-           height="288.57144"
-           width="511.42856"
-           id="rect5868" /></flowRegion><flowPara
-         id="flowPara5872">Goulot d'étranglement</flowPara></flowRoot>    <image
        y="-144.87204"
        x="1958.2443"
        id="image5876"
